@@ -1,1 +1,1 @@
-# ML_Zoomcamp_2024_Lessons
+# ML_Zoomcamp_2024_Modules
